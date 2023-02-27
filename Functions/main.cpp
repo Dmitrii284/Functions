@@ -39,7 +39,7 @@ void x2(int num) {// Заменили int на void // num - Это аргумент
 	num *= 2; 
 	//return num; // Это с int  Если поставим void то std::cout << x2(n) << '\n'; Не пишем
 }
-
+ 
 void arr_x2(int arr[]) {
 	arr[3] *= 2;
 }
